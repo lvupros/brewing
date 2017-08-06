@@ -1,0 +1,26 @@
+.footer {
+	font-size: small;
+	position: absolute;
+	bottom: 40px;
+	right: 0;
+	left: 0;
+}
+
+body {
+	color: ivory;
+	font-family: "Courier New";
+	text-align: center;
+	vertical-align: center;
+	background-image: url("../images/buffalo.jpg");
+	background-size: 600px;
+}
+
+h1 {
+	font-size: 175%;
+	margin-bottom: 0;
+}
+
+h2 {
+	font-size: 115%;
+	margin-top: 0;
+}
