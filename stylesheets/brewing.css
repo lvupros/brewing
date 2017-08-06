@@ -1,0 +1,22 @@
+img {
+	height: 100px;
+}
+
+h1 {
+	font-size: 300%;
+}
+
+.footer {
+	font-size: small;
+	position: absolute;
+	bottom: 25px;
+	right: 0;
+	left: 0;
+}
+
+body {
+	font-family: "Courier New";
+	text-align: center;
+	vertical-align: center;
+	background-image: url("../images/limeBackground.jpg");
+}
